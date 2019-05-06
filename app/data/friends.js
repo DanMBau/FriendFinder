@@ -2,7 +2,7 @@
 
 var friends = [
     {
-        name: "Ahmed",
+        name: "Martina",
         scores: [
             "5",
             "1",
@@ -32,7 +32,7 @@ var friends = [
         ]
     },
     {
-        name: "Jeremiah Scanlon",
+        name: "Diesel",
         scores: [
             "5",
             "2",
@@ -47,7 +47,7 @@ var friends = [
         ]
     },
     {
-        name: "Louis T. Delia",
+        name: "Max",
         scores: [
             "3",
             "3",
